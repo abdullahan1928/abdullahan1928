@@ -1,101 +1,122 @@
-# Hi there, I'm Abdullah 👋
+<!-- Animated Typing Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Abdullah+Anwar;Full+Stack+Developer;SaaS+%7C+AI+%7C+Web3;Building+Scalable+Systems" />
+</p>
 
-<h2><i>💻 Tech Stack</i></h2>
+<h1 align="center">Hi 👋, I'm Abdullah</h1>
 
-<table width="100">
-<tr>
-  <td align='center' width="190">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="60">
-    </td>
-  <td align='center' width="190">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="60">
-    </td>
-  <td align='center' width="190">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" width="60">
-    </td>
-  <td align='center'>
-        <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png" height="40">
-    </td>
-     <td align='center' width="190">
-        <img src="https://git-scm.com/images/logos/1color-darkbg@2x.png" width="100">
-    </td>
-</tr>
-<tr>
-    <td align='center'  width="190">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" width="60">
-    </td>
-    <td align='center'  width="190">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="60">
-    </td>
-    <td align='center' width="190">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="60">
-    </td>
-    <td align='center' width="190">
-        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
-    </td>
-    <td align='center' width="190">
-        <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
-    </td>
-</tr>
-<tr>
-  <td align='center' width="190">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="60">
-    </td>
-   <td align='center' width="190">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" width="60">
-    </td>
-    <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
-    </td>
-    <td align='center' width="190">
-        <img src="https://vegibit.com/wp-content/uploads/2018/05/expressjs.png">
-    </td>
-    <td align='center' width="190">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="60">
-    </td>
-</tr>
-<tr>
-   <td align='center' width="190">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" width="100">
-    </td>
-    <td align='center' width="190">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="60">
-    </td>
-    <td align='center' width="190">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="60">
-    </td>
-    <td align='center' width="190">
-        <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="60">
-    </td>
-    <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="60">
-    </td>
-</tr>
+<h3 align="center">🚀 Full Stack Developer | AI | SaaS | Web3</h3>
 
-</table>
+---
 
-<br />
-<br />
+## 🧠 About Me
 
-## 🤝🏻 &nbsp;Connect with Me
+- 💼 Full Stack Developer with production-level experience  
+- ⚡ Building scalable SaaS platforms and AI-powered systems  
+- 🔗 Working with blockchain, especially Solana ecosystem  
+- 🧩 Focused on performance, architecture, and clean code  
+
+---
+
+## ⚡ Tech Stack
+
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
+
+---
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js)
+![Angular](https://img.shields.io/badge/-Angular-000?style=for-the-badge&logo=angular)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-000?style=for-the-badge&logo=tailwind-css)
+![ShadCN](https://img.shields.io/badge/-ShadCN-000?style=for-the-badge&logo=shadcn/ui)
+![Material UI](https://img.shields.io/badge/-MUI-000?style=for-the-badge&logo=mui)
+
+---
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js)
+![NestJS](https://img.shields.io/badge/-NestJS-000?style=for-the-badge&logo=nestjs)
+![Express](https://img.shields.io/badge/-Express-000?style=for-the-badge&logo=express)
+
+---
+
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
+![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
+![Supabase](https://img.shields.io/badge/-Supabase-000?style=for-the-badge&logo=supabase)
+
+---
+
+### ☁️ DevOps & Tools
+![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker)
+![AWS](https://img.shields.io/badge/-AWS-000?style=for-the-badge&logo=amazon-aws)
+![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)
+![Netlify](https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify)
+
+---
+
+### 🤖 AI & Web3
+- GPT-based applications  
+- ElevenLabs voice AI  
+- WebRTC, Puppeteer, FFmpeg  
+- Solana blockchain, tokenization systems  
+
+---
+
+## 🌟 Featured Projects
+
+### 🔹 PropNerd
+Blockchain-based real estate investment platform  
+Tech: NestJS, PostgreSQL, Solana, Stripe  
+
+### 🔹 Qalifi
+Real-time AI voice assistant  
+Tech: WebRTC, GPT, ElevenLabs, FFmpeg  
+
+### 🔹 BitWaly
+Advanced analytics-based URL shortener  
+Tech: React, Node.js, MongoDB  
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-<a href="https://twitter.com/abdullahan1928"><img src="https://img.shields.io/badge/-@abdullahan1928-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/abdullahan1928/"><img src="https://img.shields.io/badge/-Abdullah%20Anwar-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/abdullahan1928/"><img src="https://img.shields.io/badge/-@abdullahan1928-fb3958?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/abdullahan1928/"><img src="https://img.shields.io/badge/-Abdullah%20Anwar-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-
-## Contribution Graph
-
-[![Abdullah's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdullahan1928&theme=react-dark)](https://github.com/abdullahan1928)
-
-<h2><i>⚙️ GitHub Analytics</i></h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=abdullahan1928&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahan1928&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
 <p align="center">
-<a href="https://github.com/abdullahan1928">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdullahan1928&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abdullahan1928&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-    <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahan1928&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahan1928&theme=tokyonight&hide_border=true"/>
 </p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/abdullahan1928/abdullahan1928/blob/output/github-contribution-grid-snake.svg" />
 </p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://twitter.com/abdullahan1928"><img src="https://img.shields.io/badge/-Twitter-000?style=for-the-badge&logo=X"/></a>
+<a href="https://www.linkedin.com/in/abdullahan1928/"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin"/></a>
+<a href="https://abdullahan1928.netlify.app/"><img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=vercel"/></a>
+</p>
+
+---
+
+## ⚡ Philosophy
+
+> Build systems that scale  
+> Automate everything possible  
+> Keep code clean, fast, and maintainable  
