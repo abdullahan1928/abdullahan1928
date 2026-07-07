@@ -1,122 +1,252 @@
 <!-- Animated Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Abdullah+Anwar;Full+Stack+Developer;SaaS+%7C+AI+%7C+Web3;Building+Scalable+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=950&lines=Abdullah+Anwar;Senior+Full+Stack+Engineer;Building+Enterprise+SaaS+Platforms;AI+Agents+%7C+Cloud+%7C+Web3;Turning+Complex+Ideas+Into+Scalable+Products"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Abdullah</h1>
+<h1 align="center">
+Hi 👋 I'm Abdullah Anwar
+</h1>
 
-<h3 align="center">🚀 Full Stack Developer | AI | SaaS | Web3</h3>
-
----
-
-## 🧠 About Me
-
-- 💼 Full Stack Developer with production-level experience  
-- ⚡ Building scalable SaaS platforms and AI-powered systems  
-- 🔗 Working with blockchain, especially Solana ecosystem  
-- 🧩 Focused on performance, architecture, and clean code  
-
----
-
-## ⚡ Tech Stack
-
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript)
-![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
-
----
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js)
-![Angular](https://img.shields.io/badge/-Angular-000?style=for-the-badge&logo=angular)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-000?style=for-the-badge&logo=tailwind-css)
-![ShadCN](https://img.shields.io/badge/-ShadCN-000?style=for-the-badge&logo=shadcn/ui)
-![Material UI](https://img.shields.io/badge/-MUI-000?style=for-the-badge&logo=mui)
-
----
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js)
-![NestJS](https://img.shields.io/badge/-NestJS-000?style=for-the-badge&logo=nestjs)
-![Express](https://img.shields.io/badge/-Express-000?style=for-the-badge&logo=express)
-
----
-
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
-![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
-![Supabase](https://img.shields.io/badge/-Supabase-000?style=for-the-badge&logo=supabase)
-
----
-
-### ☁️ DevOps & Tools
-![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker)
-![AWS](https://img.shields.io/badge/-AWS-000?style=for-the-badge&logo=amazon-aws)
-![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)
-![Netlify](https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify)
-
----
-
-### 🤖 AI & Web3
-- GPT-based applications  
-- ElevenLabs voice AI  
-- WebRTC, Puppeteer, FFmpeg  
-- Solana blockchain, tokenization systems  
-
----
-
-## 🌟 Featured Projects
-
-### 🔹 PropNerd
-Blockchain-based real estate investment platform  
-Tech: NestJS, PostgreSQL, Solana, Stripe  
-
-### 🔹 Qalifi
-Real-time AI voice assistant  
-Tech: WebRTC, GPT, ElevenLabs, FFmpeg  
-
-### 🔹 BitWaly
-Advanced analytics-based URL shortener  
-Tech: React, Node.js, MongoDB  
-
----
-
-## 📊 GitHub Analytics
+<h3 align="center">
+Full Stack Engineer building enterprise software, AI systems and scalable cloud applications.
+</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullahan1928&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahan1928&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahan1928&theme=tokyonight&hide_border=true"/>
+<img src="https://komarev.com/ghpvc/?username=abdullahan1928&style=flat-square&color=blue"/>
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+# 👨‍💻 About Me
 
-<p align="center">
-  <img src="https://github.com/abdullahan1928/abdullahan1928/blob/output/github-contribution-grid-snake.svg" />
+I'm a Full Stack Software Engineer passionate about designing scalable software that solves real business problems.
+
+Over the past few years I've worked on enterprise SaaS platforms, AI powered applications, blockchain products, CRM systems, fleet management software, Odoo customizations, mobile applications and cloud infrastructure.
+
+I enjoy building complete products from architecture and backend services to polished user experiences.
+
+### Current Focus
+
+- 🤖 AI Agents & Voice AI
+- 🏢 Enterprise CRM Systems
+- 📱 React Native Applications
+- ☁️ Cloud Native SaaS
+- ⚙️ Backend Architecture
+- 🔗 Blockchain Applications
+- 🚀 Product Engineering
+
+---
+
+# 💼 Professional Experience
+
+## Full Stack Software Engineer
+
+Currently building production-ready software including:
+
+- Enterprise CRM Platform
+- Fleet Management SaaS
+- Property Investment Platform
+- AI Voice Agents
+- Internal Business Automation Systems
+- Mobile Applications
+- Odoo Integrations
+
+---
+
+# 🛠 Tech Stack
+
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=typescript,javascript,python"/>
+</p>
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind"/>
+</p>
+
+Also working with
+
+- React Native
+- Expo
+- ShadCN UI
+- Material UI
+
+---
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express"/>
+</p>
+
+Experience with
+
+- PostgreSQL
+- MongoDB
+- Supabase
+- Firebase
+- REST APIs
+- Authentication
+- Stripe
+- WebSockets
+- Microservices
+
+---
+
+## Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github,vercel"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## AI
+
+- OpenAI
+- GPT-4o
+- ElevenLabs
+- AI Voice Agents
+- Prompt Engineering
+- Automation
+- WebRTC
+- FFmpeg
+- Puppeteer
+
+---
+
+## Blockchain
+
+- Solana
+- SPL Tokens
+- Wallet Integrations
+- Property Tokenization
+
+---
+
+# 🚀 Featured Projects
+
+## ABSI CRM
+
+Enterprise CRM platform designed for large organizations.
+
+### Features
+
+- Customer Management
+- Sales Pipeline
+- HR Module
+- Finance
+- Reporting
+- Workflow Automation
+- Modular Architecture
+- AI Ready
+
+---
+
+## PropNerd
+
+Real estate investment platform powered by blockchain.
+
+### Highlights
+
+- Property Tokenization
+- Fractional Ownership
+- Secure Investments
+- Stripe Integration
+- Solana
+
+---
+
+## Qalifi
+
+AI powered Voice Assistant capable of real-time conversations.
+
+### Highlights
+
+- GPT-4o
+- ElevenLabs
+- WebRTC
+- Browser Automation
+- AI Workflows
+
+---
+
+## NxtofFleet
+
+Fleet Management Platform.
+
+### Highlights
+
+- Vehicle Tracking
+- Maintenance
+- Driver Management
+- Analytics
+- Scheduling
+
+---
+
+## Odoo Enterprise Solutions
+
+Working with enterprise clients to build:
+
+- ERP Customizations
+- ZATCA Integrations
+- Accounting Enhancements
+- Business Automation
+
+---
+
+# 🐍 Contribution Snake
 
 <p align="center">
-<a href="https://twitter.com/abdullahan1928"><img src="https://img.shields.io/badge/-Twitter-000?style=for-the-badge&logo=X"/></a>
-<a href="https://www.linkedin.com/in/abdullahan1928/"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin"/></a>
-<a href="https://abdullahan1928.netlify.app/"><img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=vercel"/></a>
+<img src="https://github.com/abdullahan1928/abdullahan1928/blob/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
 
-## ⚡ Philosophy
+# 🏆 GitHub Trophies
 
-> Build systems that scale  
-> Automate everything possible  
-> Keep code clean, fast, and maintainable  
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=abdullahan1928&theme=tokyonight&no-frame=true&column=4"/>
+</p>
+
+---
+
+# 🌍 Connect With Me
+
+<p align="center">
+
+<a href="mailto:abdullahan1928@gmail.com">
+<img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/abdullahan1928/">
+<img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://abdullahan1928.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="https://github.com/abdullahan1928">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+# ⚡ Engineering Principles
+
+> Build software that solves real business problems.
+
+> Design systems that scale.
+
+> Keep architecture clean.
+
+> Automate repetitive work.
+
+> Ship quality over quantity.
