@@ -207,14 +207,6 @@ Working with enterprise clients to build:
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=abdullahan1928&theme=tokyonight&no-frame=true&column=4"/>
-</p>
-
----
-
 # 🌍 Connect With Me
 
 <p align="center">
